@@ -1,0 +1,6 @@
+github.com/March-deng/goesc v0.0.0-20190831020418-439b7a811c97 h1:uOWR4JjL/K6+jSC1qH96Jvh5XhazWCYRJPM3lL//lG8=
+github.com/March-deng/goesc v0.0.0-20190831020418-439b7a811c97/go.mod h1:dT+cBXd2S8IWpKOnkMxzTZgtbZI3gmsCmr9XlfI+OQw=
+github.com/google/gousb v1.1.2 h1:1BwarNB3inFTFhPgUEfah4hwOPuDz/49I0uX8XNginU=
+github.com/google/gousb v1.1.2/go.mod h1:GGWUkK0gAXDzxhwrzetW592aOmkkqSGcj5KLEgmCVUg=
+github.com/jadefox10200/goprint v0.0.0-20220906024909-7bed801d01d2 h1:EwvKOUw5dugIZGVs2kIBd97/VeXLb1kTBr6hfV2WPQ4=
+github.com/jadefox10200/goprint v0.0.0-20220906024909-7bed801d01d2/go.mod h1:K3oE9OfV8XLS9EgL96UAwcDx5W+AZNbsXc+J4X81su4=
